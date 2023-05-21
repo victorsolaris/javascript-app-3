@@ -249,10 +249,15 @@ main {
   padding: 20px;
 }
 
+.sidebar-logo {
+  display: flex;
+  justify-content: center;
+}
+
 .logo {
   /* Styles for the logo image */
   display: block;
-  width: 100%;
+  width: 200%;
   max-width: 100px; /* Adjust the width as needed */
   max-height: 100px;
   height: auto;
