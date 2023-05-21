@@ -191,6 +191,8 @@ nav a {
 nav a:hover {
   color: var(--clr-primary-5);
 }
+
+
 /*
 =============== 
 Container
@@ -265,7 +267,7 @@ main {
 
 .sidebar a {
   text-decoration: none;
-  color: #29e5f6;
+  color: #ffffff;
 }
 
 .sidebar a:hover {
