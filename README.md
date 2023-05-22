@@ -4,4 +4,3 @@ javascript-app-3
 - [x] Create site
 - [x] Add sidebar
 - [x] Add logo
-- [>] Dockerize
